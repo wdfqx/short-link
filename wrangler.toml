@@ -1,0 +1,3 @@
+name = "short-link"
+compatibility_date = "2025-08-19"
+main = "./_redirects"
